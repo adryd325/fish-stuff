@@ -1,0 +1,3 @@
+[submodule "gimpFormats"]
+	path = gimpFormats
+	url = https://github.com/TheHeadlessSourceMan/gimpFormats
